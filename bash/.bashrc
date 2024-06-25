@@ -29,5 +29,3 @@ alias umichvpn='/opt/umichvpn/umichvpn.sh'
 
 PS1='\u@\h \W \$ '
 
-# Startup Display
-neofetch
