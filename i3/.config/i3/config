@@ -12,8 +12,8 @@ font pango:JetBrainsMonoNerdFontMono 10
 
 title_align center
 
-gaps inner 5
-gaps outer 5
+gaps inner 6
+gaps outer 0
 default_border none
 
 client.unfocused #181A23 #181A23 #6F6F6F #000000
