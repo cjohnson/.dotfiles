@@ -157,6 +157,10 @@ require('lazy').setup({
     },
   },
 
+  {
+    'Hoffs/omnisharp-extended-lsp.nvim',
+  },
+
   -- NOTE: Plugins can also be configured to run Lua code when they are loaded.
   --
   -- This is often very useful to both group configuration, as well as handle
