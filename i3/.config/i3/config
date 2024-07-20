@@ -27,7 +27,7 @@ focus_follows_mouse yes
 # Launch apps
 bindsym $mod+Return exec alacritty
 bindsym $mod+b exec google-chrome-stable
-bindsym $mod+d exec webcord
+bindsym $mod+d exec discord
 bindsym $mod+r exec "rofi -modi drun,run -show drun -theme Arc-Dark"
 
 # Kill apps
@@ -91,5 +91,5 @@ exec_always --no-startup-id nitrogen --set-zoom-fill ~/.media/background.jpg --h
 
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
-exec webcord
+exec discord
 exec google-chrome-stable
