@@ -90,6 +90,3 @@ exec_always --no-startup-id nitrogen --set-zoom-fill ~/.media/background.jpg --h
 exec_always --no-startup-id nitrogen --set-zoom-fill ~/.media/background.jpg --head=2
 
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
-
-exec discord
-exec google-chrome-stable
